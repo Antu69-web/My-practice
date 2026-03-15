@@ -1,0 +1,99 @@
+SOUMEN DAS
+Professional Portfolio CV/Resume
+
+=====================================
+CONTACT INFORMATION
+=====================================
+Email: soumendasantu@gmail.com
+Phone: +880 1790602662
+Location: Dhaka, Bangladesh
+GitHub: https://github.com/Antu69-web
+
+=====================================
+EDUCATION
+=====================================
+
+Bachelor of Science in Computer Science
+American International University
+2022 - 2026
+- Focused on software engineering, data structures, algorithms, and modern web technologies
+- Strong foundation in programming and problem-solving
+
+Higher Secondary Certificate
+Jaflong Valley Boarding School
+2020 - 2021
+- Completed with excellence in Science stream
+- Strong foundation in mathematics and computer science
+
+Secondary School Certificate
+Habiganj Govt High School
+2019 - 2020
+- Achieved top grades with focus on science and technology
+
+=====================================
+SKILLS
+=====================================
+
+Frontend Development:
+- HTML & CSS (95%)
+- JavaScript (90%)
+- React (85%)
+
+Backend Development:
+- Node.js (88%)
+- Python (92%)
+- Database Management (80%)
+
+Tools & Technologies:
+- Git & GitHub (90%)
+- UI/UX Design (75%)
+- Problem Solving (95%)
+
+=====================================
+PROJECTS
+=====================================
+
+Project One - Full Stack Application
+Technologies: React, Node.js, MongoDB
+- Developed a comprehensive full-stack web application
+- Implemented modern design patterns and best practices
+
+Project Two - Python/Django Application
+Technologies: Python, Django, PostgreSQL
+- Created scalable backend architecture
+- Focused on performance optimization
+
+Project Three - Vue.js Application
+Technologies: Vue.js, Firebase, Tailwind CSS
+- Built responsive user interfaces
+- Integrated real-time features
+
+=====================================
+RESEARCH
+=====================================
+
+Research on Emerging Technologies (2024)
+Tags: Machine Learning, AI, Software Engineering
+Status: Published
+- Comprehensive study on modern software development practices
+
+Data Analysis Research (2023)
+Tags: Data Science, Big Data, Analytics
+Status: In Progress
+- Exploring novel approaches to data visualization
+
+Neural Network Research (2023)
+Tags: NLP, Deep Learning, Neural Networks
+Status: Published
+- Investigation of improved NLP architectures
+
+=====================================
+PROFESSIONAL SUMMARY
+=====================================
+
+Passionate professional dedicated to creating innovative 
+solutions. With expertise in modern technologies and strong 
+problem-solving skills, I transform ideas into reality through 
+clean code and creative solutions.
+
+=====================================
